@@ -6,4 +6,4 @@ The project contains these features:
 3. GUI which is easy to use for the user
    
 To run this file :
-Write in terminal "alarm.python" and if any library does not included write "pip install this_library"
+Write in terminal "python alarm.py" and if any library does not included write "pip install this_library"
