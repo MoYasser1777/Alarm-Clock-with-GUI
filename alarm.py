@@ -8,7 +8,7 @@ import threading
 def play_alarm_sound():
     pygame.mixer.init()
     pygame.mixer.music.load("sound.mp3")
-    pygame.mixer.music.play(-1)  # Set -1 to repeat the sound indefinitely
+    pygame.mixer.music.play(-1) 
 
 # Stop the alarm sound
 def stop_alarm_sound():
